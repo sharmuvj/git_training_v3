@@ -1,2 +1,3 @@
 this is my sample second file
 git revert commit 1
+this is my comparison lecture with the stage 
